@@ -1,2 +1,2 @@
 # kimhenrywebsite
-This is the source code for m kimhenry website and where is hosted.
+This is the source code for my kimhenry website and where is hosted.
